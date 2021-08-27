@@ -1,6 +1,6 @@
 # Web Components - Shadow Dom
 
-[https://www.youtube.com/watch?v=fZZAt0Sbz5k&ab_channel=Rocketseat](https://www.youtube.com/watch?v=fZZAt0Sbz5k&ab_channel=Rocketseat)
+Esse projeto é baseado no [vídeo](https://www.youtube.com/watch?v=fZZAt0Sbz5k&ab_channel=Rocketseat).
 
 - **(00:00) Introdução - Motivação**
 
@@ -495,3 +495,4 @@
     E o resultado final foi:
 
 ![star-rater.gif](assets/star-rater.gif)
+
