@@ -269,7 +269,7 @@
 
     O nosso elemento deve está ficando assim:
 
-    ![Captura de tela de 2021-08-27 16-33-56.png](Web%20Components%20-%20Shadow%20Dom%2006af65ed276d4179a535634ec23bc44d/Captura_de_tela_de_2021-08-27_16-33-56.png)
+    ![Captura de tela de 2021-08-27 16-33-56.png](assets/Captura_de_tela_de_2021-08-27_16-33-56.png)
 
 - **(35:00) Adicionado um evento ao elemento**
 
@@ -494,4 +494,4 @@
 
     E o resultado final foi:
 
-![star-rater.gif](Web%20Components%20-%20Shadow%20Dom%2006af65ed276d4179a535634ec23bc44d/star-rater.gif)
+![star-rater.gif](assets/star-rater.gif)
